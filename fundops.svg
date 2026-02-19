@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Document body -->
+  <rect x="3" y="0" width="70" height="82" rx="14" fill="black"/>
+
+  <!-- White text lines -->
+  <rect x="17" y="19" width="40" height="7" rx="3.5" fill="white"/>
+  <rect x="17" y="34" width="40" height="7" rx="3.5" fill="white"/>
+  <rect x="17" y="49" width="33" height="7" rx="3.5" fill="white"/>
+
+  <!-- White circle cutout behind gear -->
+  <circle cx="73" cy="76" r="28" fill="white"/>
+
+  <!-- Gear with center hole (evenodd creates the donut) -->
+  <path fill-rule="evenodd" d="M 73,60 L 76.2,53.22 L 81.99,54.83 L 81.24,62.29 L 84.31,64.69 L 91.37,62.16 L 94.33,67.38 L 88.52,72.13 L 89,76 L 95.78,79.2 L 94.17,84.99 L 86.71,84.24 L 84.31,87.31 L 86.84,94.37 L 81.62,97.33 L 76.87,91.52 L 73,92 L 69.8,98.78 L 64.01,97.17 L 64.76,89.71 L 61.69,87.31 L 54.63,89.84 L 51.67,84.62 L 57.48,79.87 L 57,76 L 50.22,72.8 L 51.83,67.01 L 59.29,67.76 L 61.69,64.69 L 59.16,57.63 L 64.38,54.67 L 69.13,60.48 Z M 73,68 A 8,8 0 1,0 73,84 A 8,8 0 1,0 73,68 Z" fill="black"/>
+</svg>
